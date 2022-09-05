@@ -1,1 +1,4 @@
-This is the change made by another user in his local system. This needs to be pushed to the original repository
+This is the change made by another user in his local system. This needs to be pushed to the original repository.
+
+Now the owner of the repo has added me as a collaborator. So now we can push the changes to the repo.
+
