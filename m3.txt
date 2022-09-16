@@ -1,1 +1,3 @@
-Now pushing this file to the private repository
+Now pushing this file to the private repository.
+
+Now adding a feature in this file to improve the code
